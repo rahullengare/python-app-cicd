@@ -174,7 +174,7 @@ pipeline {
 3. Configure the job exactly as before, pointing to your new **`python-app-cicd`** repository and **`jenkinsfile`**
 
 ![Project Screenshot](/images/job.png).
-![Project Screenshot](/images/joob2.png).
+![Project Screenshot](/images/job2.png).
 
 ## Step 5: Check Python App
 
